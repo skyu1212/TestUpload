@@ -1,0 +1,19 @@
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoClaims_Repository\bin\Debug\KomodoClaims_Repository.dll
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoClaims_Repository\bin\Debug\KomodoClaims_Repository.pdb
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.csprojAssemblyReference.cache
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.csproj.CoreCompileInputs.cache
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.dll
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.pdb
+C:\Users\objec\Downloads\KomodoConsoleChallenge (1)\KomodoConsoleChallenge\KomodoClaims_Repository\bin\Debug\KomodoClaims_Repository.dll
+C:\Users\objec\Downloads\KomodoConsoleChallenge (1)\KomodoConsoleChallenge\KomodoClaims_Repository\bin\Debug\KomodoClaims_Repository.pdb
+C:\Users\objec\Downloads\KomodoConsoleChallenge (1)\KomodoConsoleChallenge\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.csprojAssemblyReference.cache
+C:\Users\objec\Downloads\KomodoConsoleChallenge (1)\KomodoConsoleChallenge\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.csproj.CoreCompileInputs.cache
+C:\Users\objec\Downloads\KomodoConsoleChallenge (1)\KomodoConsoleChallenge\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.dll
+C:\Users\objec\Downloads\KomodoConsoleChallenge (1)\KomodoConsoleChallenge\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.pdb
+C:\Users\objec\Videos\KomodoConsoleChallenge\KomodoConsoleChallenge\KomodoClaims_Repository\bin\Debug\KomodoClaims_Repository.dll
+C:\Users\objec\Videos\KomodoConsoleChallenge\KomodoConsoleChallenge\KomodoClaims_Repository\bin\Debug\KomodoClaims_Repository.pdb
+C:\Users\objec\Videos\KomodoConsoleChallenge\KomodoConsoleChallenge\KomodoClaims_Repository\obj\Debug\Interop.ADOX.dll
+C:\Users\objec\Videos\KomodoConsoleChallenge\KomodoConsoleChallenge\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.csproj.ResolveComReference.cache
+C:\Users\objec\Videos\KomodoConsoleChallenge\KomodoConsoleChallenge\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.csproj.CoreCompileInputs.cache
+C:\Users\objec\Videos\KomodoConsoleChallenge\KomodoConsoleChallenge\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.dll
+C:\Users\objec\Videos\KomodoConsoleChallenge\KomodoConsoleChallenge\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.pdb

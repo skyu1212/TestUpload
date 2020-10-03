@@ -1,0 +1,19 @@
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoBadges_Repository\bin\Debug\KomodoBadges_Repository.dll
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoBadges_Repository\bin\Debug\KomodoBadges_Repository.pdb
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoBadges_Repository\obj\Debug\KomodoBadges_Repository.csprojAssemblyReference.cache
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoBadges_Repository\obj\Debug\KomodoBadges_Repository.csproj.CoreCompileInputs.cache
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoBadges_Repository\obj\Debug\KomodoBadges_Repository.dll
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoBadges_Repository\obj\Debug\KomodoBadges_Repository.pdb
+C:\Users\objec\Downloads\KomodoConsoleChallenge (1)\KomodoConsoleChallenge\KomodoBadges_Repository\bin\Debug\KomodoBadges_Repository.dll
+C:\Users\objec\Downloads\KomodoConsoleChallenge (1)\KomodoConsoleChallenge\KomodoBadges_Repository\bin\Debug\KomodoBadges_Repository.pdb
+C:\Users\objec\Downloads\KomodoConsoleChallenge (1)\KomodoConsoleChallenge\KomodoBadges_Repository\obj\Debug\KomodoBadges_Repository.csprojAssemblyReference.cache
+C:\Users\objec\Downloads\KomodoConsoleChallenge (1)\KomodoConsoleChallenge\KomodoBadges_Repository\obj\Debug\KomodoBadges_Repository.csproj.CoreCompileInputs.cache
+C:\Users\objec\Downloads\KomodoConsoleChallenge (1)\KomodoConsoleChallenge\KomodoBadges_Repository\obj\Debug\KomodoBadges_Repository.dll
+C:\Users\objec\Downloads\KomodoConsoleChallenge (1)\KomodoConsoleChallenge\KomodoBadges_Repository\obj\Debug\KomodoBadges_Repository.pdb
+C:\Users\objec\Videos\KomodoConsoleChallenge\KomodoConsoleChallenge\KomodoBadges_Repository\bin\Debug\KomodoBadges_Repository.dll
+C:\Users\objec\Videos\KomodoConsoleChallenge\KomodoConsoleChallenge\KomodoBadges_Repository\bin\Debug\KomodoBadges_Repository.pdb
+C:\Users\objec\Videos\KomodoConsoleChallenge\KomodoConsoleChallenge\KomodoBadges_Repository\obj\Debug\KomodoBadges_Repository.csproj.CoreCompileInputs.cache
+C:\Users\objec\Videos\KomodoConsoleChallenge\KomodoConsoleChallenge\KomodoBadges_Repository\obj\Debug\KomodoBadges_Repository.dll
+C:\Users\objec\Videos\KomodoConsoleChallenge\KomodoConsoleChallenge\KomodoBadges_Repository\obj\Debug\KomodoBadges_Repository.pdb
+C:\Users\objec\Videos\KomodoConsoleChallenge\KomodoConsoleChallenge\KomodoBadges_Repository\obj\Debug\Interop.ADOX.dll
+C:\Users\objec\Videos\KomodoConsoleChallenge\KomodoConsoleChallenge\KomodoBadges_Repository\obj\Debug\KomodoBadges_Repository.csproj.ResolveComReference.cache
